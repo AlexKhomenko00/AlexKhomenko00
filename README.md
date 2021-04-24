@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Nest.js
 - 💞️ I’m looking to collaborate on various interesting projects
 - 📫 How to reach me:
+
 https://www.linkedin.com/in/khomenkooleksandr/
 
 oleksandr.khomenko2000@gmail.com
