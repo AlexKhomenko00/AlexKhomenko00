@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexKhomenko
 - 👀 I’m interested in the modern Back and Front-end Development
-- 🌱 I’m currently learning: Ansible
+- 🌱 I’m currently learning: Azure Events Hub
 - 💞️ I’m looking to collaborate on various interesting projects
 - 📫 How to reach me:
 
